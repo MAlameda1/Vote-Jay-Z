@@ -1,0 +1,46 @@
+.jayz{
+    display:flex;
+    justify-content: center;
+}
+
+.heading {
+    text-align: center;
+    background-color: yellow;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    text-align:center;
+}
+
+.cta {
+    display: flex;
+}
+
+.fun-facts {
+    width: 20%; 
+    background-color: purple;
+    color:white;
+ }
+
+.donate {
+    width: 80%;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     color:white;
+}
+
+img {
+    height: 100px;   
+}
+
+html{ 
+    background:grey;
+}
+
+
